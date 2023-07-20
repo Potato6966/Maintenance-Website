@@ -1,2 +1,4 @@
 # Maintenance-Website
-Join https://dsc.gg/potatofam for more support!
+
+A simple maintenance website by Potato6966
+
